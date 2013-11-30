@@ -1,0 +1,20 @@
+# Logs and databases #
+######################
+*.log
+
+# Editor Files #
+################
+*~
+
+# Build output directories #
+############################
+target
+
+# IntelliJ specific files/directories #
+#######################################
+out
+.idea
+*.ipr
+*.iws
+*.iml
+
