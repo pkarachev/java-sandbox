@@ -28,9 +28,9 @@
         <property name="hbm2ddl.auto">create</property>
 
         <!-- Names the annotated classes -->
-        <mapping class="ru.mail.pkarachev.forum.Message"/>
-        <mapping class="ru.mail.pkarachev.forum.Topic"/>
-        <mapping class="ru.mail.pkarachev.forum.User"/>
+        <mapping class="forum.data.Message"/>
+        <mapping class="forum.data.Topic"/>
+        <mapping class="forum.data.User"/>
 
     </session-factory>
 

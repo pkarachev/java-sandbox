@@ -1,5 +1,8 @@
-package ru.mail.pkarachev.forum;
+package forum;
 
+import forum.data.Message;
+import forum.data.Topic;
+import forum.data.User;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

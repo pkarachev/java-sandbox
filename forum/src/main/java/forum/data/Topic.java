@@ -1,7 +1,7 @@
-package ru.mail.pkarachev.forum;
+package forum.data;
 
 import org.hibernate.annotations.GenericGenerator;
-import ru.mail.pkarachev.forum.util.Utils;
+import forum.util.Utils;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
