@@ -5,9 +5,6 @@ import org.codehaus.jackson.map.ObjectWriter;
 
 import java.io.IOException;
 
-/**
- * @author pkarachev
- */
 public class Utils {
     private static ObjectWriter jsonWriter = new ObjectMapper().writer();
 

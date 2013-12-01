@@ -16,9 +16,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author pkarachev
- */
 public class HibernateTest {
     private static SessionFactory sessionFactory;
     private static Logger log = LoggerFactory.getLogger(HibernateTest.class);

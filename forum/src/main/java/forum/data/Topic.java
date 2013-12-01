@@ -15,9 +15,6 @@ import javax.persistence.TemporalType;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author pkarachev
- */
 @Entity
 @Table
 public class Topic {

@@ -13,10 +13,6 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import java.util.Date;
 
-
-/**
- * @author pkarachev
- */
 @Entity
 @Table
 public class Message {
